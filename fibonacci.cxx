@@ -1,6 +1,6 @@
 
 #include <iostream>
-#include<conio.h>
+
 using namespace std;
 
 int main() {
@@ -17,6 +17,6 @@ int main() {
 		secondTerm = nextTerm;
 	}
 	cout << "f(N)= " <<nextTerm << endl;
-	getch();
+
 	return 0;
 }
